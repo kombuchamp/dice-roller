@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dice-roller/static/css/main.1fadd162.chunk.css",
+    "main.js": "/dice-roller/static/js/main.b19540e1.chunk.js",
+    "main.js.map": "/dice-roller/static/js/main.b19540e1.chunk.js.map",
+    "runtime-main.js": "/dice-roller/static/js/runtime-main.f9aa7fc1.js",
+    "runtime-main.js.map": "/dice-roller/static/js/runtime-main.f9aa7fc1.js.map",
+    "static/js/2.a07b8a1f.chunk.js": "/dice-roller/static/js/2.a07b8a1f.chunk.js",
+    "static/js/2.a07b8a1f.chunk.js.map": "/dice-roller/static/js/2.a07b8a1f.chunk.js.map",
+    "index.html": "/dice-roller/index.html",
+    "precache-manifest.af0e985afcd3dc68cd1528dcc1338ecb.js": "/dice-roller/precache-manifest.af0e985afcd3dc68cd1528dcc1338ecb.js",
+    "service-worker.js": "/dice-roller/service-worker.js",
+    "static/css/main.1fadd162.chunk.css.map": "/dice-roller/static/css/main.1fadd162.chunk.css.map",
+    "static/js/2.a07b8a1f.chunk.js.LICENSE.txt": "/dice-roller/static/js/2.a07b8a1f.chunk.js.LICENSE.txt",
+    "static/media/d10.bd35fed2.svg": "/dice-roller/static/media/d10.bd35fed2.svg",
+    "static/media/d12.4b25e80a.svg": "/dice-roller/static/media/d12.4b25e80a.svg",
+    "static/media/d20.1e2a0cb6.svg": "/dice-roller/static/media/d20.1e2a0cb6.svg",
+    "static/media/d4.90e4af94.svg": "/dice-roller/static/media/d4.90e4af94.svg",
+    "static/media/d6.74717916.svg": "/dice-roller/static/media/d6.74717916.svg",
+    "static/media/d8.ddfa6e29.svg": "/dice-roller/static/media/d8.ddfa6e29.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9aa7fc1.js",
+    "static/js/2.a07b8a1f.chunk.js",
+    "static/css/main.1fadd162.chunk.css",
+    "static/js/main.b19540e1.chunk.js"
+  ]
+}

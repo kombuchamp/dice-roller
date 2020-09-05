@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.counter {
+  min-height: 1.2em;
+  user-select: none;
+}
+.die {
+  flex: 1;
+  transition: transform 500ms ease-in;
+}
